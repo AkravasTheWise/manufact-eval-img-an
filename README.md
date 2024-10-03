@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/550772192.svg)](https://doi.org/10.5281/zenodo.13886069)
 # Manufacturing evaluation via image analysis
 
 Processing of SEM images to evaluate the effectiveness of an optimized fabrication procedure for voltage contacts in SHNOs
@@ -49,3 +50,7 @@ Aspect ratio               |  Eccentricity
 ![aspect-ratio](processed-images/AspectRatio_30-40-50-100.png) | ![eccentricity](processed-images/EccencricityEval_30-40-50-100.png)
 
 We see that the left figure tells a compelling story about the quality of the procedure, since aspect ratios are close to 1, thus confirming the adecuacy of the manufacturing details. The eccentricity, on the other hand, allows us to probe into the 'circleness' with a little more detail. Since the $`\epsilon`$ is not a linear function with the aspect ratio, this means that we can evaluate a shift in curvature from the perfect circle (zero), while still maintaining high accuracy.
+
+# Cite this code
+If this code was useful for you, you can help me out by citing it:
+'''V. H. González, ‘AkravasTheWise/manufact-eval-img-an: Evaluation of fabrication of voltage-gated spin Hall nano-oscillators’. Zenodo, Oct. 03, 2024. doi: 10.5281/zenodo.13886069'''
