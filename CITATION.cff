@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: González
+  given-names: Victor H.
+orcid: 0000-0003-0968-9484
+title: Evaluation of fabrication of voltage-gated spin Hall nano-oscillators
+version: v1.0.0
+date-released: 2024-10-03
