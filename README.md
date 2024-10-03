@@ -53,4 +53,5 @@ We see that the left figure tells a compelling story about the quality of the pr
 
 # Cite this code
 If this code was useful for you, you can help me out by citing it:
-'''V. H. González, ‘AkravasTheWise/manufact-eval-img-an: Evaluation of fabrication of voltage-gated spin Hall nano-oscillators’. Zenodo, Oct. 03, 2024. doi: 10.5281/zenodo.13886069'''
+
+V. H. González, ‘AkravasTheWise/manufact-eval-img-an: Evaluation of fabrication of voltage-gated spin Hall nano-oscillators’. Zenodo, Oct. 03, 2024. doi: 10.5281/zenodo.13886069
